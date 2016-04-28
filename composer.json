@@ -1,5 +1,5 @@
 {
-  "name": "drupal/emptyparagraphkiller",
+  "name": "flowconcept/emptyparagraphkiller",
   "description": "Filters out pesky empty paragraphs.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
